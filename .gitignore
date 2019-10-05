@@ -1,0 +1,6 @@
+# Workspace settings
+.vscode/
+
+# Builds
+bin/
+obj/
