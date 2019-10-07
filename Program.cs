@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BottomToTop
+namespace Peak
 {
     public static class Program
     {
